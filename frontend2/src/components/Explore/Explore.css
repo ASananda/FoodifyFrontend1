@@ -1,0 +1,14 @@
+.explore-container {
+  padding: 2rem;
+  text-align: center;
+}
+
+.explore-container h1 {
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.explore-container p {
+  color: #666;
+  font-size: 1.2rem;
+} 
